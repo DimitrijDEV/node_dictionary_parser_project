@@ -1,0 +1,23 @@
+{
+  "name": "parsertranslatedwords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dimitrij Kuzmenko",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "node-html-parser": "^2.1.0",
+    "prompt-sync": "^4.2.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
