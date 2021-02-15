@@ -1,5 +1,5 @@
 const prompt = require('prompt-sync')();
-const { writeHtmlPage, getWordTranslation } = require('./requestPostData');
+const { getContentHtmlPage, getWordTranslation } = require('./requestPostData');
 
 function getHtmlPages(wordsArr = []) {
     const params = [
@@ -30,7 +30,7 @@ function getHtmlPages(wordsArr = []) {
             clearInterval(interval);
         }
 
-        writeHtmlPage(langOption.native, langOption.foreign, directoryName, wordsArr[count]);
+        getContentHtmlPage(langOption.native, langOption.foreign, directoryName, wordsArr[count]);
     }, 3000);
 }
 
@@ -74,7 +74,7 @@ function getForeignWords(words = []) {
                     res(newWordsArr);
                 }
             }, 3000);
- 
+
 
         } catch (error) {
             console.log("ERROR: " + error);
@@ -84,5 +84,61 @@ function getForeignWords(words = []) {
 }
 
 
+function getWordsTranslation(words = []) {
+    return new Promise((res, rej) => {
+        const params = [
+            { native: "en", foreign: "pl" },
+            { native: "de", foreign: "pl" },
+            { native: "fr", foreign: "pl" },
+            { native: "it", foreign: "pl" },
+            { native: "es", foreign: "pl" },
+            { native: "pt", foreign: "pl" }
+        ];
+
+        let newWordsArr = [];
+
+        params.map((val, index) => {
+            console.log(`${index + 1}.) ${val.native} to ${val.foreign}`)
+        })
+
+        const
+            option = prompt('Type your option: '),
+            wordsCount = prompt('How much word do you want to get: '),
+            attrOption = params[option - 1];
+
+        let count = 0;
+
+        console.log(`\nTranslation from ${attrOption.native} to ${attrOption.foreign}:`);
+
+        try {
+            let interval = setInterval(async () => {
+                count++;
+
+                let word = await getWordTranslation(words[count], attrOption.native, attrOption.foreign);
+                let wordObj = {
+                    word: words[count],
+                    translation: word.toLowerCase()
+                }
+
+                if (words[count] !== word && wordObj.translation.includes('align') === false) {
+                    console.log(`${wordObj.word} -> ${wordObj.translation}`);
+                    newWordsArr.push(wordObj);
+                }
+
+                if (count === +wordsCount) {
+                    clearInterval(interval);
+                    res(newWordsArr);
+                }
+            }, 1500);
+
+
+        } catch (error) {
+            console.log("ERROR: " + error);
+            rej([]);
+        }
+    })
+}
+
 exports.getForeignWords = getForeignWords;
+exports.getWordsTranslation = getWordsTranslation;
 exports.getHtmlPages = getHtmlPages;

@@ -1,0 +1,790 @@
+[
+    {
+        "word": "abandoned",
+        "translation": "opuszczony"
+    },
+    {
+        "word": "abandonment",
+        "translation": "porzucenie"
+    },
+    {
+        "word": "abbreviation",
+        "translation": "skrót"
+    },
+    {
+        "word": "abide",
+        "translation": "abde"
+    },
+    {
+        "word": "ability",
+        "translation": "zdolność"
+    },
+    {
+        "word": "abnormal",
+        "translation": "zaburzenia"
+    },
+    {
+        "word": "aboard",
+        "translation": "na pokładzie"
+    },
+    {
+        "word": "abolish",
+        "translation": "usunąć"
+    },
+    {
+        "word": "abolition",
+        "translation": "abolicja"
+    },
+    {
+        "word": "abortion",
+        "translation": "aborcja"
+    },
+    {
+        "word": "abortive",
+        "translation": "poronin"
+    },
+    {
+        "word": "above",
+        "translation": "powyżej"
+    },
+    {
+        "word": "abroad",
+        "translation": "za granicą"
+    },
+    {
+        "word": "abrupt",
+        "translation": "nagłe"
+    },
+    {
+        "word": "absence",
+        "translation": "brak"
+    },
+    {
+        "word": "absent",
+        "translation": "nieobecni"
+    },
+    {
+        "word": "absolute",
+        "translation": "bezwzględne"
+    },
+    {
+        "word": "absolutely",
+        "translation": "absolutnie."
+    },
+    {
+        "word": "absorb",
+        "translation": "absorbuj"
+    },
+    {
+        "word": "absorption",
+        "translation": "wchłanianie"
+    },
+    {
+        "word": "abstract",
+        "translation": "abstrakt"
+    },
+    {
+        "word": "absurdity",
+        "translation": "absurdalność"
+    },
+    {
+        "word": "abundance",
+        "translation": "obfitość"
+    },
+    {
+        "word": "abundant",
+        "translation": "obfite"
+    },
+    {
+        "word": "abuse",
+        "translation": "nadużycie"
+    },
+    {
+        "word": "academic",
+        "translation": "akademickie"
+    },
+    {
+        "word": "academy",
+        "translation": "akademia"
+    },
+    {
+        "word": "accelerate",
+        "translation": "przyspiesz"
+    },
+    {
+        "word": "acceleration",
+        "translation": "przyspieszenie"
+    },
+    {
+        "word": "accent",
+        "translation": "akcent"
+    },
+    {
+        "word": "accept",
+        "translation": "akceptuj"
+    },
+    {
+        "word": "acceptable",
+        "translation": "dopuszczalne"
+    },
+    {
+        "word": "access",
+        "translation": "dostęp"
+    },
+    {
+        "word": "accessible",
+        "translation": "dostępne"
+    },
+    {
+        "word": "accessory",
+        "translation": "akcesoria"
+    },
+    {
+        "word": "accident",
+        "translation": "wypadek"
+    },
+    {
+        "word": "accidental",
+        "translation": "przypadkowe"
+    },
+    {
+        "word": "accidentally",
+        "translation": "przypadkowo"
+    },
+    {
+        "word": "accommodation",
+        "translation": "zakwaterowanie"
+    },
+    {
+        "word": "accompaniment",
+        "translation": "akompaniament"
+    },
+    {
+        "word": "accompany",
+        "translation": "towarzysz"
+    },
+    {
+        "word": "accomplish",
+        "translation": "osiągnąć"
+    },
+    {
+        "word": "accomplishment",
+        "translation": "realizacja"
+    },
+    {
+        "word": "according to",
+        "translation": "według"
+    },
+    {
+        "word": "account",
+        "translation": "konto"
+    },
+    {
+        "word": "account for",
+        "translation": "konto dla"
+    },
+    {
+        "word": "accounting",
+        "translation": "rachunkowość"
+    },
+    {
+        "word": "accumulation",
+        "translation": "akumulacja"
+    },
+    {
+        "word": "accuracy",
+        "translation": "dokładność"
+    },
+    {
+        "word": "accurate",
+        "translation": "dokładne"
+    },
+    {
+        "word": "accurately",
+        "translation": "dokładnie"
+    },
+    {
+        "word": "accusation",
+        "translation": "oskarżenie"
+    },
+    {
+        "word": "accuse",
+        "translation": "oskarżać"
+    },
+    {
+        "word": "achieve",
+        "translation": "osiągnąć"
+    },
+    {
+        "word": "achievement",
+        "translation": "osiągnięcia"
+    },
+    {
+        "word": "acid",
+        "translation": "kwas"
+    },
+    {
+        "word": "acknowledge",
+        "translation": "potwierdź"
+    },
+    {
+        "word": "acquaintance",
+        "translation": "znajomy"
+    },
+    {
+        "word": "acquainted",
+        "translation": "zapoznanie"
+    },
+    {
+        "word": "acquire",
+        "translation": "nabyć"
+    },
+    {
+        "word": "acquisition",
+        "translation": "nabycie"
+    },
+    {
+        "word": "across",
+        "translation": "w poprzek"
+    },
+    {
+        "word": "act",
+        "translation": "akt"
+    },
+    {
+        "word": "action",
+        "translation": "działanie"
+    },
+    {
+        "word": "activate",
+        "translation": "aktywuj"
+    },
+    {
+        "word": "actively",
+        "translation": "aktywnie"
+    },
+    {
+        "word": "activity",
+        "translation": "działalność"
+    },
+    {
+        "word": "actor",
+        "translation": "aktor"
+    },
+    {
+        "word": "actress",
+        "translation": "aktorka"
+    },
+    {
+        "word": "actual",
+        "translation": "rzeczywista"
+    },
+    {
+        "word": "actually",
+        "translation": "właściwie"
+    },
+    {
+        "word": "acute",
+        "translation": "ostre"
+    },
+    {
+        "word": "adaptation",
+        "translation": "adaptacja"
+    },
+    {
+        "word": "add",
+        "translation": "dodaj"
+    },
+    {
+        "word": "addition",
+        "translation": "dodatek"
+    },
+    {
+        "word": "additional",
+        "translation": "dodatkowe"
+    },
+    {
+        "word": "additive",
+        "translation": "dodatek"
+    },
+    {
+        "word": "address",
+        "translation": "adres"
+    },
+    {
+        "word": "adequate",
+        "translation": "odpowiednie"
+    },
+    {
+        "word": "adequately",
+        "translation": "odpowiednio"
+    },
+    {
+        "word": "adhesive",
+        "translation": "klej"
+    },
+    {
+        "word": "adjacent",
+        "translation": "sąsiednie"
+    },
+    {
+        "word": "adjust",
+        "translation": "dostosuj"
+    },
+    {
+        "word": "adjustment",
+        "translation": "dostosowanie"
+    },
+    {
+        "word": "administer",
+        "translation": "podawanie raz"
+    },
+    {
+        "word": "administration",
+        "translation": "administracja"
+    },
+    {
+        "word": "administrative",
+        "translation": "administracja"
+    },
+    {
+        "word": "admiration",
+        "translation": "podziw"
+    },
+    {
+        "word": "admire",
+        "translation": "podziwiać"
+    },
+    {
+        "word": "admission",
+        "translation": "wstęp"
+    },
+    {
+        "word": "admit",
+        "translation": "przyznaj"
+    },
+    {
+        "word": "adolescence",
+        "translation": "dojrzewanie"
+    },
+    {
+        "word": "adolescent",
+        "translation": "nastolatek"
+    },
+    {
+        "word": "adopt",
+        "translation": "adoptuj"
+    },
+    {
+        "word": "adoption",
+        "translation": "adopcja"
+    },
+    {
+        "word": "adornment",
+        "translation": "ozdoby"
+    },
+    {
+        "word": "adult",
+        "translation": "dorośli"
+    },
+    {
+        "word": "advanced",
+        "translation": "zaawansowane"
+    },
+    {
+        "word": "advantage",
+        "translation": "korzyść"
+    },
+    {
+        "word": "adventure",
+        "translation": "przygoda"
+    },
+    {
+        "word": "adventurous",
+        "translation": "przygód"
+    },
+    {
+        "word": "adversary",
+        "translation": "przeciwnik"
+    },
+    {
+        "word": "adverse",
+        "translation": "niekorzystne"
+    },
+    {
+        "word": "adversity",
+        "translation": "przeciwności losu"
+    },
+    {
+        "word": "advert",
+        "translation": "reklama"
+    },
+    {
+        "word": "advertise",
+        "translation": "reklamuj się"
+    },
+    {
+        "word": "advertisement",
+        "translation": "reklama"
+    },
+    {
+        "word": "advertising",
+        "translation": "reklama"
+    },
+    {
+        "word": "advice",
+        "translation": "porady"
+    },
+    {
+        "word": "advisable",
+        "translation": "wskazane"
+    },
+    {
+        "word": "advise",
+        "translation": "doradzić"
+    },
+    {
+        "word": "advocate",
+        "translation": "adwokat"
+    },
+    {
+        "word": "affair",
+        "translation": "afera"
+    },
+    {
+        "word": "affect",
+        "translation": "afekt"
+    },
+    {
+        "word": "affection",
+        "translation": "uczucia"
+    },
+    {
+        "word": "affectionate",
+        "translation": "czuły"
+    },
+    {
+        "word": "affirmation",
+        "translation": "afirmacja"
+    },
+    {
+        "word": "affirmative",
+        "translation": "potwierdzam"
+    },
+    {
+        "word": "afford",
+        "translation": "stać"
+    },
+    {
+        "word": "affordable",
+        "translation": "niedrogi"
+    },
+    {
+        "word": "after",
+        "translation": "po"
+    },
+    {
+        "word": "afternoon",
+        "translation": "popołudnie"
+    },
+    {
+        "word": "afterwards",
+        "translation": "potem"
+    },
+    {
+        "word": "against",
+        "translation": "przeciw"
+    },
+    {
+        "word": "age",
+        "translation": "wiek"
+    },
+    {
+        "word": "agency",
+        "translation": "agencja"
+    },
+    {
+        "word": "aggregate",
+        "translation": "agregat"
+    },
+    {
+        "word": "aggregation",
+        "translation": "agregacja"
+    },
+    {
+        "word": "agitation",
+        "translation": "pobudzenie"
+    },
+    {
+        "word": "agree",
+        "translation": "zgadzam się"
+    },
+    {
+        "word": "agreement",
+        "translation": "umowa"
+    },
+    {
+        "word": "agriculture",
+        "translation": "rolnictwo"
+    },
+    {
+        "word": "aid",
+        "translation": "pomoc"
+    },
+    {
+        "word": "ailment",
+        "translation": "dolegliwości"
+    },
+    {
+        "word": "aim",
+        "translation": "cel"
+    },
+    {
+        "word": "air",
+        "translation": "powietrze"
+    },
+    {
+        "word": "aircraft",
+        "translation": "samoloty"
+    },
+    {
+        "word": "airport",
+        "translation": "lotnisko"
+    },
+    {
+        "word": "aisle",
+        "translation": "alejka"
+    },
+    {
+        "word": "alcohol",
+        "translation": "alkohol"
+    },
+    {
+        "word": "alcoholic",
+        "translation": "alkoholik"
+    },
+    {
+        "word": "all",
+        "translation": "wszystkie"
+    },
+    {
+        "word": "allergic",
+        "translation": "alergia"
+    },
+    {
+        "word": "allergy",
+        "translation": "alergia"
+    },
+    {
+        "word": "alliance",
+        "translation": "sojusz"
+    },
+    {
+        "word": "allocate",
+        "translation": "przydzielić"
+    },
+    {
+        "word": "allow",
+        "translation": "zezwalaj"
+    },
+    {
+        "word": "allowance",
+        "translation": "dodatek"
+    },
+    {
+        "word": "alloy",
+        "translation": "stop"
+    },
+    {
+        "word": "almost",
+        "translation": "prawie"
+    },
+    {
+        "word": "alone",
+        "translation": "sam"
+    },
+    {
+        "word": "alongside",
+        "translation": "obok"
+    },
+    {
+        "word": "aloud",
+        "translation": "na głos"
+    },
+    {
+        "word": "alphabet",
+        "translation": "alfabet"
+    },
+    {
+        "word": "alphabetical",
+        "translation": "alfabetycznie"
+    },
+    {
+        "word": "alphabetically",
+        "translation": "alfabetycznie"
+    },
+    {
+        "word": "already",
+        "translation": "już"
+    },
+    {
+        "word": "also",
+        "translation": "również"
+    },
+    {
+        "word": "alternation",
+        "translation": "alternacja"
+    },
+    {
+        "word": "alternative",
+        "translation": "alternatywa"
+    },
+    {
+        "word": "alternatively",
+        "translation": "alternatywnie"
+    },
+    {
+        "word": "although",
+        "translation": "chociaż"
+    },
+    {
+        "word": "altitude",
+        "translation": "wysokość"
+    },
+    {
+        "word": "altogether",
+        "translation": "razem"
+    },
+    {
+        "word": "aluminum",
+        "translation": "aluminium"
+    },
+    {
+        "word": "always",
+        "translation": "zawsze"
+    },
+    {
+        "word": "amateur",
+        "translation": "amator"
+    },
+    {
+        "word": "amazed",
+        "translation": "zdumiony"
+    },
+    {
+        "word": "amazement",
+        "translation": "zdumienie"
+    },
+    {
+        "word": "ambassador",
+        "translation": "ambasador"
+    },
+    {
+        "word": "ambiguity",
+        "translation": "niejednoznaczność"
+    },
+    {
+        "word": "ambiguous",
+        "translation": "niejednoznaczne"
+    },
+    {
+        "word": "ambition",
+        "translation": "ambicja"
+    },
+    {
+        "word": "ambitious",
+        "translation": "ambitny"
+    },
+    {
+        "word": "ambulance",
+        "translation": "karetka pogotowia"
+    },
+    {
+        "word": "amend",
+        "translation": "zmienić"
+    },
+    {
+        "word": "amendment",
+        "translation": "zmiana"
+    },
+    {
+        "word": "amends",
+        "translation": "poprawki"
+    },
+    {
+        "word": "amiable",
+        "translation": "sympatyczny"
+    },
+    {
+        "word": "amicable",
+        "translation": "polubowne"
+    },
+    {
+        "word": "amid",
+        "translation": "wśród"
+    },
+    {
+        "word": "ammunition",
+        "translation": "amunicja"
+    },
+    {
+        "word": "among",
+        "translation": "wśród"
+    },
+    {
+        "word": "amount",
+        "translation": "kwota"
+    },
+    {
+        "word": "amount to",
+        "translation": "kwota do"
+    },
+    {
+        "word": "ample",
+        "translation": "obfite"
+    },
+    {
+        "word": "amplification",
+        "translation": "amplifikacja"
+    },
+    {
+        "word": "amused",
+        "translation": "rozbawiony"
+    },
+    {
+        "word": "amusing",
+        "translation": "zabawne"
+    },
+    {
+        "word": "analogy",
+        "translation": "analogia"
+    },
+    {
+        "word": "analyse",
+        "translation": "analizować"
+    },
+    {
+        "word": "analysis",
+        "translation": "analiza"
+    },
+    {
+        "word": "analytical",
+        "translation": "analityczne"
+    },
+    {
+        "word": "analyze",
+        "translation": "analizuj"
+    },
+    {
+        "word": "ancestor",
+        "translation": "przodek"
+    },
+    {
+        "word": "anchor",
+        "translation": "kotwica"
+    },
+    {
+        "word": "ancient",
+        "translation": "starożytność"
+    }
+]

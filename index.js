@@ -2,7 +2,7 @@ const prompt = require('prompt-sync')();
 const { getDirectories } = require('./modules/dirsInfo')
 const { readWordsOfDocument, getUniqueWords } = require("./modules/parseWords");
 const { getDataJSON, writeDataJSON } = require("./modules/jsonData");
-const { getHtmlPages, getForeignWords } = require("./modules/responsePostData");
+const { getHtmlPages, getForeignWords, getWordsTranslation } = require("./modules/responsePostData");
 const { parseHtmlPages } = require("./modules/parseHtml");
 
 
@@ -80,6 +80,16 @@ function beginParseHtmlPages() {
     writeDataJSON(translations, "translations", name);
 }
 
+async function getTranslationsOfWords() {
+    const
+        infoObj = getInfoObj(),
+        name = prompt('Type a filename for writting to a json this array: ');
+        newWords = await  getWordsTranslation(infoObj.words);
+
+    console.log("\nWe have gotten  an array of foreign words: ", newWords.length, "\n");
+
+    writeDataJSON(newWords, "translations", name);
+}
 
 
 while (isRun) {
@@ -89,7 +99,8 @@ while (isRun) {
         "2) Get new foreign words and write them to json", '\n',
         "3) Get html pages of words and write them", '\n',
         "4) Parse html pages and write a json file", '\n',
-        "5) Exit", '\n',
+        "5) Get translations of words and write to json", '\n',
+        "6) Exit"
     );
 
     const option = prompt('Type your option: ');
@@ -110,9 +121,11 @@ while (isRun) {
             beginParseHtmlPages();
             break;
         case 5:
-            isRun = false;
+            getTranslationsOfWords()
+            isRun = false
             break;
-
+        case 6:
+            isRun = false
         default:
             break;
     }
