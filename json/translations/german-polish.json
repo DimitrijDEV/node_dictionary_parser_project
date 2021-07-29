@@ -1,1 +1,590 @@
-[{"word":"aufgegeben","translation":"oddany"},{"word":"Verzicht","translation":"odmowa"},{"word":"ruhen","translation":"spoczywać"},{"word":"einzuhalten","translation":"przestrzegać"},{"word":"Fähigkeit","translation":"zdolności"},{"word":"abnorm","translation":"anomal"},{"word":"an Bord","translation":"na pokładzie"},{"word":"abschaffen","translation":"kasować"},{"word":"Abschaffung","translation":"zniesienie"},{"word":"Abtreibung","translation":"aborcja"},{"word":"gescheiterten","translation":"upadły"},{"word":"oben","translation":"od góry"},{"word":"kürzen","translation":"skrócić"},{"word":"auswärts","translation":"na zewnątrz"},{"word":"hebt","translation":"podnosić"},{"word":"abrupt","translation":"gwałtowny"},{"word":"Abwesenheit","translation":"brak"},{"word":"abwesend","translation":"nieobecny"},{"word":"absolut","translation":"absolutny"},{"word":"absolut","translation":"absolutny"},{"word":"absorbieren","translation":"absorbować"},{"word":"Absorption","translation":"pochłanianie"},{"word":"abstrakt","translation":"abstrakcyjny"},{"word":"absurd","translation":"absurdalny"},{"word":"Absurdität","translation":"absurdalność"},{"word":"Überfluss","translation":"obfitość"},{"word":"reichlich","translation":"obfity"},{"word":"Missbrauch","translation":"nadużycie"},{"word":"akademisch","translation":"akademicki"},{"word":"Akademie","translation":"akademia"},{"word":"beschleunigen","translation":"przyspieszać"},{"word":"Beschleunigung","translation":"przyspieszenie"},{"word":"Akzent","translation":"akcent"},{"word":"akzeptieren","translation":"przyjąć"},{"word":"akzeptabel","translation":"do przyjęcia"},{"word":"Zugang","translation":"tolerancja"},{"word":"zugänglich","translation":"dostępny"},{"word":"Accessoire","translation":"akcesoria"},{"word":"Unfall","translation":"wypadek"},{"word":"zufällig","translation":"przypadkowy"},{"word":"versehentlich","translation":"błędnie"},{"word":"Platz","translation":"miejscami"},{"word":"Unterk","translation":"przechłodzenie"},{"word":"Begleitung","translation":"akompaniament"},{"word":"begleiten","translation":"towarzyszyć"},{"word":"erreichen","translation":"osiągać"},{"word":"Errungenschaft","translation":"osiągnięcie"},{"word":"entsprechen","translation":"odpowiadać"},{"word":"Konto","translation":"rachunek"},{"word":"konto für","translation":"rachunek za"},{"word":"Buchhalter","translation":"księgowy"},{"word":"Buchhaltung","translation":"księgowość"},{"word":"anfallen","translation":"dostawać"},{"word":"ansammeln","translation":"gromadzić"},{"word":"Anhäufung","translation":"akumulacja"},{"word":"Genauigkeit","translation":"dokładność"},{"word":"genau","translation":"dokładny"},{"word":"genau","translation":"dokładny"},{"word":"Vorwurf","translation":"zarzut"},{"word":"beschuldigen","translation":"oskarżać"},{"word":"erreichen","translation":"osiągać"},{"word":"Leistung","translation":"wydajność"},{"word":"Säure","translation":"kwas"},{"word":"anerkennen","translation":"uznać"},{"word":"bekanntschaft","translation":"znajomość"},{"word":"bekannten","translation":"słynny"},{"word":"kennen","translation":"wiedzieć"},{"word":"erwerben","translation":"nabyć"},{"word":"Übernahme","translation":"przyjęcie na siebie"},{"word":"über","translation":"o"},{"word":"Akt","translation":"protokół"},{"word":"Aktion","translation":"działanie"},{"word":"aktivieren","translation":"aktywować"},{"word":"aktiv","translation":"aktywny"},{"word":"aktiv","translation":"aktywny"},{"word":"Aktivität","translation":"działalność"},{"word":"Schauspieler","translation":"aktor"},{"word":"Schauspielerin","translation":"aktorka"},{"word":"tatsächlich","translation":"faktycznie"},{"word":"tatsächlich","translation":"faktycznie"},{"word":"akut","translation":"pikantny"},{"word":"Anzeige","translation":"wyświetlacz"},{"word":"anpassen","translation":"przystosowywać się"},{"word":"Anpassung","translation":"dopasowanie"},{"word":"hinzufügen","translation":"uzupełniać"},{"word":"hinaus","translation":"na zewnątrz"},{"word":"zusätzlich","translation":"dodatkowy"},{"word":"Additiv","translation":"dodatek"},{"word":"Anschrift","translation":"adres"},{"word":"angemessen","translation":"odpowiedni"},{"word":"angemessen","translation":"odpowiedni"},{"word":"einhalten","translation":"przestrzegać"},{"word":"Klebstoff","translation":"kleić"},{"word":"angrenzend","translation":"przylegający"},{"word":"angrenzen","translation":"graniczyć"},{"word":"anpassen","translation":"przystosowywać się"},{"word":"Anpassung","translation":"dopasowanie"},{"word":"verwalten","translation":"zarządzać"},{"word":"Verwaltung","translation":"zarządzanie"},{"word":"administrativ","translation":"administracyjny"},{"word":"Bewunderung","translation":"podziw"},{"word":"bewundern","translation":"podziwiać"},{"word":"Eintritt","translation":"wlot"},{"word":"zugeben","translation":"uznać"},{"word":"zugegebenermaßen","translation":"wprawdzie"},{"word":"Adoleszenz","translation":"okres dojrzewania"},{"word":"Jugendliche","translation":"młodzież"},{"word":"annehmen","translation":"przyjąć"},{"word":"Annahme","translation":"podejmowanie"},{"word":"verehren","translation":"oddawać cześć"},{"word":"schmücken","translation":"dekorować"},{"word":"Verzierung","translation":"ozdoba"},{"word":"Erwachsene","translation":"dorosły"},{"word":"Voraus","translation":"naprzód"},{"word":"erweiterte","translation":"rozszerzany"},{"word":"Vorteil","translation":"korzyść"},{"word":"Abenteuer","translation":"przygoda"},{"word":"abenteuerlich","translation":"awanturniczy"},{"word":"Gegner","translation":"przeciwnik"},{"word":"negativ","translation":"negatywny"},{"word":"Widrigkeiten","translation":"udręka"},{"word":"anzeige","translation":"reklama"},{"word":"Werbung","translation":"reklama"},{"word":"Werbung","translation":"reklama"},{"word":"Werbung","translation":"reklama"},{"word":"Beratung","translation":"doradztwo"},{"word":"ratsam","translation":"pożądany"},{"word":"beraten","translation":"doradzić"},{"word":"befürworten","translation":"aprobować"},{"word":"Luftbild","translation":"zdjęcie lotnicze"},{"word":"Angelegenheit","translation":"sprawa"},{"word":"beeinflussen","translation":"wywierać wpływ"},{"word":"Zuneigung","translation":"przywiązanie"},{"word":"liebevoll","translation":"łagodny"},{"word":"Affiliate","translation":"partnerski"},{"word":"bekräftigen","translation":"potwierdzać"},{"word":"Affirmation","translation":"zatwierdzenie"},{"word":"affirmative","translation":"afirmatywny"},{"word":"leisten","translation":"robić"},{"word":"erschwinglich","translation":"dostępny"},{"word":"Angst","translation":"strach"},{"word":"nach","translation":"po"},{"word":"Nachmittag","translation":"popołudnie"},{"word":"danach","translation":"po tym"},{"word":"wieder","translation":"ponownie"},{"word":"gegen","translation":"przeciwko"},{"word":"Alter","translation":"wiek"}]
+[
+    {
+        "word": "aufgegeben",
+        "translation": "oddany"
+    },
+    {
+        "word": "Verzicht",
+        "translation": "odmowa"
+    },
+    {
+        "word": "ruhen",
+        "translation": "spoczywać"
+    },
+    {
+        "word": "einzuhalten",
+        "translation": "przestrzegać"
+    },
+    {
+        "word": "Fähigkeit",
+        "translation": "zdolności"
+    },
+    {
+        "word": "abnorm",
+        "translation": "anomal"
+    },
+    {
+        "word": "an Bord",
+        "translation": "na pokładzie"
+    },
+    {
+        "word": "abschaffen",
+        "translation": "kasować"
+    },
+    {
+        "word": "Abschaffung",
+        "translation": "zniesienie"
+    },
+    {
+        "word": "Abtreibung",
+        "translation": "aborcja"
+    },
+    {
+        "word": "gescheiterten",
+        "translation": "upadły"
+    },
+    {
+        "word": "oben",
+        "translation": "od góry"
+    },
+    {
+        "word": "kürzen",
+        "translation": "skrócić"
+    },
+    {
+        "word": "auswärts",
+        "translation": "na zewnątrz"
+    },
+    {
+        "word": "hebt",
+        "translation": "podnosić"
+    },
+    {
+        "word": "abrupt",
+        "translation": "gwałtowny"
+    },
+    {
+        "word": "Abwesenheit",
+        "translation": "brak"
+    },
+    {
+        "word": "abwesend",
+        "translation": "nieobecny"
+    },
+    {
+        "word": "absolut",
+        "translation": "absolutny"
+    },
+    {
+        "word": "absolut",
+        "translation": "absolutny"
+    },
+    {
+        "word": "absorbieren",
+        "translation": "absorbować"
+    },
+    {
+        "word": "Absorption",
+        "translation": "pochłanianie"
+    },
+    {
+        "word": "abstrakt",
+        "translation": "abstrakcyjny"
+    },
+    {
+        "word": "absurd",
+        "translation": "absurdalny"
+    },
+    {
+        "word": "Absurdität",
+        "translation": "absurdalność"
+    },
+    {
+        "word": "Überfluss",
+        "translation": "obfitość"
+    },
+    {
+        "word": "reichlich",
+        "translation": "obfity"
+    },
+    {
+        "word": "Missbrauch",
+        "translation": "nadużycie"
+    },
+    {
+        "word": "akademisch",
+        "translation": "akademicki"
+    },
+    {
+        "word": "Akademie",
+        "translation": "akademia"
+    },
+    {
+        "word": "beschleunigen",
+        "translation": "przyspieszać"
+    },
+    {
+        "word": "Beschleunigung",
+        "translation": "przyspieszenie"
+    },
+    {
+        "word": "Akzent",
+        "translation": "akcent"
+    },
+    {
+        "word": "akzeptieren",
+        "translation": "przyjąć"
+    },
+    {
+        "word": "akzeptabel",
+        "translation": "do przyjęcia"
+    },
+    {
+        "word": "Zugang",
+        "translation": "tolerancja"
+    },
+    {
+        "word": "zugänglich",
+        "translation": "dostępny"
+    },
+    {
+        "word": "Accessoire",
+        "translation": "akcesoria"
+    },
+    {
+        "word": "Unfall",
+        "translation": "wypadek"
+    },
+    {
+        "word": "zufällig",
+        "translation": "przypadkowy"
+    },
+    {
+        "word": "versehentlich",
+        "translation": "błędnie"
+    },
+    {
+        "word": "Platz",
+        "translation": "miejscami"
+    },
+    {
+        "word": "Unterk",
+        "translation": "przechłodzenie"
+    },
+    {
+        "word": "Begleitung",
+        "translation": "akompaniament"
+    },
+    {
+        "word": "begleiten",
+        "translation": "towarzyszyć"
+    },
+    {
+        "word": "erreichen",
+        "translation": "osiągać"
+    },
+    {
+        "word": "Errungenschaft",
+        "translation": "osiągnięcie"
+    },
+    {
+        "word": "entsprechen",
+        "translation": "odpowiadać"
+    },
+    {
+        "word": "Konto",
+        "translation": "rachunek"
+    },
+    {
+        "word": "konto für",
+        "translation": "rachunek za"
+    },
+    {
+        "word": "Buchhalter",
+        "translation": "księgowy"
+    },
+    {
+        "word": "Buchhaltung",
+        "translation": "księgowość"
+    },
+    {
+        "word": "anfallen",
+        "translation": "dostawać"
+    },
+    {
+        "word": "ansammeln",
+        "translation": "gromadzić"
+    },
+    {
+        "word": "Anhäufung",
+        "translation": "akumulacja"
+    },
+    {
+        "word": "Genauigkeit",
+        "translation": "dokładność"
+    },
+    {
+        "word": "genau",
+        "translation": "dokładny"
+    },
+    {
+        "word": "genau",
+        "translation": "dokładny"
+    },
+    {
+        "word": "Vorwurf",
+        "translation": "zarzut"
+    },
+    {
+        "word": "beschuldigen",
+        "translation": "oskarżać"
+    },
+    {
+        "word": "erreichen",
+        "translation": "osiągać"
+    },
+    {
+        "word": "Leistung",
+        "translation": "wydajność"
+    },
+    {
+        "word": "Säure",
+        "translation": "kwas"
+    },
+    {
+        "word": "anerkennen",
+        "translation": "uznać"
+    },
+    {
+        "word": "bekanntschaft",
+        "translation": "znajomość"
+    },
+    {
+        "word": "bekannten",
+        "translation": "słynny"
+    },
+    {
+        "word": "kennen",
+        "translation": "wiedzieć"
+    },
+    {
+        "word": "erwerben",
+        "translation": "nabyć"
+    },
+    {
+        "word": "Übernahme",
+        "translation": "przyjęcie na siebie"
+    },
+    {
+        "word": "über",
+        "translation": "o"
+    },
+    {
+        "word": "Akt",
+        "translation": "protokół"
+    },
+    {
+        "word": "Aktion",
+        "translation": "działanie"
+    },
+    {
+        "word": "aktivieren",
+        "translation": "aktywować"
+    },
+    {
+        "word": "aktiv",
+        "translation": "aktywny"
+    },
+    {
+        "word": "aktiv",
+        "translation": "aktywny"
+    },
+    {
+        "word": "Aktivität",
+        "translation": "działalność"
+    },
+    {
+        "word": "Schauspieler",
+        "translation": "aktor"
+    },
+    {
+        "word": "Schauspielerin",
+        "translation": "aktorka"
+    },
+    {
+        "word": "tatsächlich",
+        "translation": "faktycznie"
+    },
+    {
+        "word": "tatsächlich",
+        "translation": "faktycznie"
+    },
+    {
+        "word": "akut",
+        "translation": "pikantny"
+    },
+    {
+        "word": "Anzeige",
+        "translation": "wyświetlacz"
+    },
+    {
+        "word": "anpassen",
+        "translation": "przystosowywać się"
+    },
+    {
+        "word": "Anpassung",
+        "translation": "dopasowanie"
+    },
+    {
+        "word": "hinzufügen",
+        "translation": "uzupełniać"
+    },
+    {
+        "word": "hinaus",
+        "translation": "na zewnątrz"
+    },
+    {
+        "word": "zusätzlich",
+        "translation": "dodatkowy"
+    },
+    {
+        "word": "Additiv",
+        "translation": "dodatek"
+    },
+    {
+        "word": "Anschrift",
+        "translation": "adres"
+    },
+    {
+        "word": "angemessen",
+        "translation": "odpowiedni"
+    },
+    {
+        "word": "angemessen",
+        "translation": "odpowiedni"
+    },
+    {
+        "word": "einhalten",
+        "translation": "przestrzegać"
+    },
+    {
+        "word": "Klebstoff",
+        "translation": "kleić"
+    },
+    {
+        "word": "angrenzend",
+        "translation": "przylegający"
+    },
+    {
+        "word": "angrenzen",
+        "translation": "graniczyć"
+    },
+    {
+        "word": "anpassen",
+        "translation": "przystosowywać się"
+    },
+    {
+        "word": "Anpassung",
+        "translation": "dopasowanie"
+    },
+    {
+        "word": "verwalten",
+        "translation": "zarządzać"
+    },
+    {
+        "word": "Verwaltung",
+        "translation": "zarządzanie"
+    },
+    {
+        "word": "administrativ",
+        "translation": "administracyjny"
+    },
+    {
+        "word": "Bewunderung",
+        "translation": "podziw"
+    },
+    {
+        "word": "bewundern",
+        "translation": "podziwiać"
+    },
+    {
+        "word": "Eintritt",
+        "translation": "wlot"
+    },
+    {
+        "word": "zugeben",
+        "translation": "uznać"
+    },
+    {
+        "word": "zugegebenermaßen",
+        "translation": "wprawdzie"
+    },
+    {
+        "word": "Adoleszenz",
+        "translation": "okres dojrzewania"
+    },
+    {
+        "word": "Jugendliche",
+        "translation": "młodzież"
+    },
+    {
+        "word": "annehmen",
+        "translation": "przyjąć"
+    },
+    {
+        "word": "Annahme",
+        "translation": "podejmowanie"
+    },
+    {
+        "word": "verehren",
+        "translation": "oddawać cześć"
+    },
+    {
+        "word": "schmücken",
+        "translation": "dekorować"
+    },
+    {
+        "word": "Verzierung",
+        "translation": "ozdoba"
+    },
+    {
+        "word": "Erwachsene",
+        "translation": "dorosły"
+    },
+    {
+        "word": "Voraus",
+        "translation": "naprzód"
+    },
+    {
+        "word": "erweiterte",
+        "translation": "rozszerzany"
+    },
+    {
+        "word": "Vorteil",
+        "translation": "korzyść"
+    },
+    {
+        "word": "Abenteuer",
+        "translation": "przygoda"
+    },
+    {
+        "word": "abenteuerlich",
+        "translation": "awanturniczy"
+    },
+    {
+        "word": "Gegner",
+        "translation": "przeciwnik"
+    },
+    {
+        "word": "negativ",
+        "translation": "negatywny"
+    },
+    {
+        "word": "Widrigkeiten",
+        "translation": "udręka"
+    },
+    {
+        "word": "anzeige",
+        "translation": "reklama"
+    },
+    {
+        "word": "Werbung",
+        "translation": "reklama"
+    },
+    {
+        "word": "Werbung",
+        "translation": "reklama"
+    },
+    {
+        "word": "Werbung",
+        "translation": "reklama"
+    },
+    {
+        "word": "Beratung",
+        "translation": "doradztwo"
+    },
+    {
+        "word": "ratsam",
+        "translation": "pożądany"
+    },
+    {
+        "word": "beraten",
+        "translation": "doradzić"
+    },
+    {
+        "word": "befürworten",
+        "translation": "aprobować"
+    },
+    {
+        "word": "Luftbild",
+        "translation": "zdjęcie lotnicze"
+    },
+    {
+        "word": "Angelegenheit",
+        "translation": "sprawa"
+    },
+    {
+        "word": "beeinflussen",
+        "translation": "wywierać wpływ"
+    },
+    {
+        "word": "Zuneigung",
+        "translation": "przywiązanie"
+    },
+    {
+        "word": "liebevoll",
+        "translation": "łagodny"
+    },
+    {
+        "word": "Affiliate",
+        "translation": "partnerski"
+    },
+    {
+        "word": "bekräftigen",
+        "translation": "potwierdzać"
+    },
+    {
+        "word": "Affirmation",
+        "translation": "zatwierdzenie"
+    },
+    {
+        "word": "affirmative",
+        "translation": "afirmatywny"
+    },
+    {
+        "word": "leisten",
+        "translation": "robić"
+    },
+    {
+        "word": "erschwinglich",
+        "translation": "dostępny"
+    },
+    {
+        "word": "Angst",
+        "translation": "strach"
+    },
+    {
+        "word": "nach",
+        "translation": "po"
+    },
+    {
+        "word": "Nachmittag",
+        "translation": "popołudnie"
+    },
+    {
+        "word": "danach",
+        "translation": "po tym"
+    },
+    {
+        "word": "wieder",
+        "translation": "ponownie"
+    },
+    {
+        "word": "gegen",
+        "translation": "przeciwko"
+    },
+    {
+        "word": "Alter",
+        "translation": "wiek"
+    }
+]
